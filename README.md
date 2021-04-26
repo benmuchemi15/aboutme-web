@@ -9,6 +9,6 @@ The about button will take you to the about section that talks about my road to 
 
 
 The contact buton will take you to the contact section of my page
-I linked my phone number and email using the <a href> element so that when you click the link you can email or call me directly without having to open up your email or phone
+I linked my phone number and email using the a href element so that when you click the link you can email or call me directly without having to open up your email or phone
 
 I made sure to have a footer as a footer is essential to any web page
